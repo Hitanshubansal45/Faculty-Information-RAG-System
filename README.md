@@ -139,9 +139,9 @@ Faculty-Information-RAG-System/
 
 ## 🖼️ Screenshot
 
-> *Screenshot placeholder — launch the app and take a screenshot to place here.*
->
-> `![App Screenshot](screenshot.png)`
+
+> <img width="1262" height="587" alt="image" src="https://github.com/user-attachments/assets/967de8d7-c85d-41c6-b0f0-f642cb1c6e5c" />
+
 
 ---
 
