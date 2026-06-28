@@ -1,0 +1,15 @@
+# ============================================================
+# Streamlit Theme Configuration
+# Premium dark theme for the Faculty Information RAG System
+# ============================================================
+
+[theme]
+primaryColor = "#6C63FF"          # Vibrant indigo accent
+backgroundColor = "#0E1117"       # Deep dark background
+secondaryBackgroundColor = "#1A1D29"  # Slightly lighter card areas
+textColor = "#FAFAFA"             # Near-white text for readability
+font = "sans serif"               # Clean sans-serif typography
+
+[server]
+headless = true                   # Run without opening a browser tab automatically
+maxUploadSize = 50                # Max upload size in MB (for manual PDF uploads)

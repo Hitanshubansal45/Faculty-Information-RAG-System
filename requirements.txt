@@ -1,0 +1,24 @@
+# ============================================================
+# Faculty Information RAG System — Dependencies
+# ============================================================
+
+# --- Core Framework ---
+streamlit>=1.30.0               # Frontend UI framework
+
+# --- LangChain Ecosystem ---
+langchain>=0.3.0                # Core LangChain framework
+langchain-community>=0.3.0     # Community integrations (FAISS, etc.)
+langchain-ollama>=0.2.0        # Ollama LLM & embedding integration
+langchain-core>=0.3.0          # Core abstractions
+langchain-text-splitters>=0.3.0 # Text splitting utilities
+langchain-classic>=1.0.0       # Classic chains (RetrievalQA)
+
+# --- Vector Store ---
+faiss-cpu>=1.7.4                # FAISS vector store (CPU version)
+
+# --- PDF Parsing ---
+pdfplumber>=0.10.0              # Robust PDF text extraction
+
+# --- Web Scraping (for fetching faculty PDFs) ---
+requests>=2.31.0                # HTTP client for downloading PDFs
+beautifulsoup4>=4.12.0          # HTML parsing to find PDF links
